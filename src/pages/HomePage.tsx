@@ -19,12 +19,10 @@ const HomePage = () => {
         const res = await sendOtp(value);
         setRequestId(res.requestId);
         setPhoneNumber(value);
-        console.log(res);
     };
 
     const handleOtp = async (value: string) => {
         const res = await verifyOtp(phoneNumber, requestId, value);
-        console.log(res);
         cookies.set("token", res.token, {
             sameSite: "none",
             secure: true,
