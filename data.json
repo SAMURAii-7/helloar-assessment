@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Fake Song 1",
+        "source": "YouTube",
+        "date": "2021-09-01"
+    },
+    {
+        "id": 2,
+        "name": "Fake Song 2",
+        "source": "YouTube",
+        "date": "2021-09-02"
+    },
+    {
+        "id": 3,
+        "name": "Fake Song 3",
+        "source": "YouTube",
+        "date": "2021-09-03"
+    },
+    {
+        "id": 4,
+        "name": "Fake Song 4",
+        "source": "YouTube",
+        "date": "2021-09-04"
+    },
+    {
+        "id": 5,
+        "name": "Fake Song 5",
+        "source": "YouTube",
+        "date": "2021-09-05"
+    }
+]
